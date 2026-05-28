@@ -6,7 +6,7 @@ export const PRODUCTION_CONFIG = {
   // Your Supabase backend URL (running on your computer or deployed)
   // For now, using your computer's IP (since backend is local)
   
-  API_URL: 'http://192.168.56.1/api', 
+  API_URL: 'https://sbi-app.onrender.com', 
   
   // Feature flags
   enableBiometric: true,
